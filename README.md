@@ -10,7 +10,7 @@ A handheld console running three games I wrote from scratch in C: Flappy Bird, S
 |---|---|---|---|
 | ![Game selector](docs/images/game-selector.jpg) | ![Flappy Bird](docs/images/flappy-bird.jpg) | ![Snake](docs/images/snake.jpg) | ![Tetris](docs/images/tetris.jpg) |
 
-Demo video: [youtube.com/watch?v=tJ3czAZk3TU](https://www.youtube.com/watch?v=tJ3czAZk3TU)
+Videos: [demo](https://www.youtube.com/watch?v=Bn7Uy6IJS7Y) · [build progress](https://www.youtube.com/watch?v=tJ3czAZk3TU)
 
 ## How it works
 
